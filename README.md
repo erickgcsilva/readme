@@ -22,4 +22,4 @@
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/erickgcsilva/count.svg" /></p>>
 
-![snake gif](https://github.com/erickgcsilva/erickgcsilva/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/erickgcsilva/erickgcsilva/blob/output/github-contribution-grid-snake.svg)
