@@ -20,6 +20,4 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dnzruj51np9lozc3g2zof59lo)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/erickgcsilva)
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/erickgcsilva/count.svg" /></p>>
-
- ![Snake animation](https://github.com/erickgcsilva/erickgcsilva/blob/output/github-contribution-grid-snake.svg)
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/erickgcsilva/count.svg" /></p>
