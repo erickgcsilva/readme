@@ -21,3 +21,5 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/erickgcsilva)
 
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/erickgcsilva/count.svg" /></p>
+
+![snake gif](https://github.com/erickgcsilva/erickgcsilva/blob/output/github-contribution-grid-snake.svg)
