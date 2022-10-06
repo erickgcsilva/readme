@@ -1,5 +1,3 @@
-### Eaí meu nobre, eu sou o Gonça 😛
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickgcsilva&show_icons=true&theme=radical&locale=pt-br)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickgcsilva&layout=compact&locale=pt-br&theme=radical)](https://github.com/erickgcsilva/github-readme-stats)
 
